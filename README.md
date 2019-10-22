@@ -1,2 +1,2 @@
 # JD_huazhuangpin_spider
-京东化妆品数据爬虫
+京东化妆品数据爬虫以及数据
